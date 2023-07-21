@@ -4,7 +4,6 @@
  * @array: arameter
  * @size: parameter
  **/
-
 void counting_sort(int *array, size_t size)
 {
 	int k, j, *a, *count;
